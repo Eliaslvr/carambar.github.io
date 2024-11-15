@@ -18,3 +18,7 @@ HTML5 - CSS3 - Javascript - React
 
 Cliquez sur le lien https://eliaslvr.github.io/carambar.github.io/
 
+## Lien sur les differentes blagues en fichier Json :
+
+https://github.com/Eliaslvr/carambar.github.io/blob/main/src/joke.json
+
