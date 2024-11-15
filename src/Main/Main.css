@@ -1,0 +1,94 @@
+.main { 
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.joke {
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    display: flex;
+    flex-direction: column;
+    font-size: 27px;
+}
+
+.joke span {
+    margin: 0 auto;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.spanResponse {
+    font-size: 18px;
+}
+
+.button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.buttonBeforeJoke {
+    margin: 0 auto;
+    width: 190px;
+    background-color: #ffff00; 
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    transition: box-shadow 0.3s;
+}
+
+.buttonJoke {
+    width: 190px;
+    margin-left: 20px;
+    background-color: #ffff00; 
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    transition: box-shadow 0.3s;
+}
+
+.buttonResponse {
+    width: 190px;
+    margin-right: 20;
+    background-color: #fd3807; 
+    color: black;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    transition: box-shadow 0.3s;
+}
+
+.buttonBeforeJoke:hover {
+    background-color: #e9e90f;
+    box-shadow: 4px 4px 9px 0px rgba(0,0,0,0.75);
+}
+
+.buttonJoke:hover {
+    background-color: #e9e90f;
+    box-shadow: 4px 4px 9px 0px rgba(0,0,0,0.75);
+}
+
+.buttonResponse:hover {
+    background-color: #e43e15; 
+    box-shadow: 4px 4px 9px 0px rgba(0,0,0,0.75);
+}
+
+/* @media only screen and (max-width: 992px) {
+
+} */
+
+/* @media only screen and (max-width: 768px) {
+    
+} */
