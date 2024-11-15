@@ -14,6 +14,14 @@ HTML5 - CSS3 - Javascript - React
 
 2 . Clonez le repository => _git clone https://github.com/Eliaslvr/carambar.github.io.git
 
+## Comment lancer le dossier :
+
+1 . Se rendre dans le terminal
+
+2 . Faites cd .\carambar\ puis entrée
+
+3 . Faites npm start puis entrée
+
 ## Lien du site :
 
 Cliquez sur le lien https://eliaslvr.github.io/carambar.github.io/
